@@ -9,7 +9,7 @@ Happy recrutaining to y'all!
 Fun Facts: 
 * [Brief Wikipedia article](https://en.wikipedia.org/wiki/Great_horse_manure_crisis_of_1894)
 * [About the series "Silicon Valley"](https://www.imdb.com/title/tt2575988/)
-* [Home Box Office - Episode Details](https://www.hbo.com/silicon-valley/season-5/5-facial-recognition)
+* [Home Box Office - episode details](https://www.hbo.com/silicon-valley/season-5/5-facial-recognition)
 * [An amazingly written piece from Nautlius Mag](https://nautil.us/did-cars-rescue-our-cities-from-horses-13130/)
 
 
@@ -21,7 +21,7 @@ Fun Facts:
 * 27 yo
 * Academic background: Economics -> Business Informatics -> Data Science
 * Job profile: Data Engineer, aspirational Data Scientist :)
-* Tech Stack: Python-Magic, SQL-Mastery, Natural Language Processing (always on search for the next best LSTM / transformer model)
+* Tech stack: Python-Magic, SQL-Mastery, Natural Language Processing (always on search for the next best LSTM / transformer model)
 * Reach out to me via ckujath@\<big-four-large-letters\>.com or: 
   * [linkedin.com](https://www.linkedin.com/in/christiankujath) <a href="https://www.linkedin.com/in/christiankujath"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/LinkedIN_black.svg" alt="LinkedIn" width="21px"/></a>
   * [github.com](https://www.github.com/wandergarten) <a href="https://github.com/Wandergarten"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Github_black.svg" alt="LinkedIn" width="21px"/></a>
@@ -30,10 +30,10 @@ Fun Facts:
 ### Mr. "Automation-Is-Self-Empowerment"
 ![raul](https://github.com/Wandergarten/Open-Minds-Malzfabrik-Berlin-2022/blob/main/raul-1.png)
 
-* mature in age but not in mind
+* Mature in age but not in mind
 * Academic background: Biology -> Stem Cells -> Business Intelligence --> Process Automation
-* Job Profile: Low Code Evangelist
-* Tech Stack: PowerBI, Low Code on various platforms, Native Instruments Traktor
+* Job profile: Low Code Evangelist
+* Tech stack: PowerBI, Low Code on various platforms, Native Instruments Traktor
 * Feel free to contact me via rbukowiecki@\<big-four-large-letters\>.com: 
   * [linkedin.com](https://www.linkedin.com/in/raul-bukowiecki) <a href="https://wwww.linkedin.com/in/raul-bukowiecki"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/LinkedIN_black.svg" alt="LinkedIn" width="21px"/></a>
   * [pubfacts.com]([https://www.github.com/wandergarten](https://www.pubfacts.com/author/Raul%2BBukowiecki)) <a href="https://www.pubfacts.com/author/Raul%2BBukowiecki"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Github_black.svg" alt="LinkedIn" width="21px"/></a>
