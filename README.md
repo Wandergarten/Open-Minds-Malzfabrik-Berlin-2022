@@ -15,41 +15,40 @@ Fun Facts:
 
 # About Us
 
-## Mr. Data-Are-My-Hobby
+### Mr. "Data-Are-My-Hobby"
 ![chris](https://github.com/Wandergarten/Open-Minds-Malzfabrik-Berlin-2022/blob/main/chris-1.png)
 
-* Chris
 * 27 yo
 * Academic background: Economics -> Business Informatics -> Data Science
 * Job profile: Data Engineer, aspirational Data Scientist :)
 * Tech Stack: Python-Magic, SQL-Mastery, Natural Language Processing (always on search for the next best LSTM / transformer model)
 * Reach out to me via ckujath@\<big-four-large-letters\>.com or: 
-  * <a href="https://www.linkedin.com/in/christiankujath"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/LinkedIN_black.svg" alt="LinkedIn" width="21px"/></a>
-  * <a href="https://github.com/Wandergarten"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Github_black.svg" alt="LinkedIn" width="21px"/></a>
+  * [linkedin.com](https://www.linkedin.com/in/christiankujath) <a href="https://www.linkedin.com/in/christiankujath"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/LinkedIN_black.svg" alt="LinkedIn" width="21px"/></a>
+  * [github.com](https://www.github.com/wandergarten) <a href="https://github.com/Wandergarten"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Github_black.svg" alt="LinkedIn" width="21px"/></a>
 
 
-## Mr. Automation-Is-Self-Empowerment
+### Mr. "Automation-Is-Self-Empowerment"
 ![raul](https://github.com/Wandergarten/Open-Minds-Malzfabrik-Berlin-2022/blob/main/raul-1.png)
 
-* Raul
 * mature in age but not in mind
 * Academic background: Biology -> Stem Cells -> Business Intelligence --> Process Automation
 * Job Profile: Low Code Evangelist
 * Tech Stack: PowerBI, Low Code on various platforms, Native Instruments Traktor
 * Feel free to contact me via rbukowiecki@\<big-four-large-letters\>.com: 
-  * <a href="https://wwww.linkedin.com/in/raul-bukowiecki"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/LinkedIN_black.svg" alt="LinkedIn" width="21px"/></a>
-  * <a href="https://www.pubfacts.com/author/Raul%2BBukowiecki"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Github_black.svg" alt="LinkedIn" width="21px"/></a>
+  * [linkedin.com](https://www.linkedin.com/in/raul-bukowiecki) <a href="https://wwww.linkedin.com/in/raul-bukowiecki"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/LinkedIN_black.svg" alt="LinkedIn" width="21px"/></a>
+  * [pubfacts.com]([https://www.github.com/wandergarten](https://www.pubfacts.com/author/Raul%2BBukowiecki)) <a href="https://www.pubfacts.com/author/Raul%2BBukowiecki"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Github_black.svg" alt="LinkedIn" width="21px"/></a>
   
 # What We Do @ Lighthouse Germany
 
 <a href="https://www.youtube.com/watch?v=jXx-cgqgFDc"><img align="left" src="https://i.imgur.com/rVrhO1x.png" alt="Lighthouse Germany in Motion"/></a>
 
-## Data & Analytics
+
+### Data & Analytics
 * [Selbstvorstellung Data Science, Data & Analytics im Lighthouse Germany](https://home.kpmg/de/de/home/dienstleistungen/advisory/consulting/services/analytics-und-technology/data-science.html)
 * [Whitepaper: Machine Learning for Industrial Process Supervision](https://home.kpmg/de/de/home/themen/2021/10/prozessueberwachung-mit-maschinellem-lernen.html)
 * [Whitepaper: Supply Chain and Contract Analytics](https://home.kpmg/de/de/home/themen/2019/09/intelligentes-vertragsmanagement-der-zukunft.html)
 
-## Low Code
+### Low Code
 * [Selbstvorstellung Low Code Center of Excellence](https://home.kpmg/de/de/home/dienstleistungen/advisory/consulting/services/analytics-und-technology/kpmg-low-code-center-of-excellence.html)
 * [Pre-Launch Project Website](https://lowcodekpmg.com/)
 * [Potentiale von Low Code](https://home.kpmg/ch/de/home/themen/2021/03/low-code.html)
