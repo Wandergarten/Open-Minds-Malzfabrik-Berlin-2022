@@ -29,6 +29,8 @@ Fun Facts:
 
 
 ## Mr. Automation-Is-Self-Empowerment
+![raul](https://github.com/Wandergarten/Open-Minds-Malzfabrik-Berlin-2022/blob/main/raul-1.png)
+
 * Raul
 * mature in age but not in mind
 * Academic background: Biology -> Stem Cells -> Business Intelligence --> Process Automation
@@ -59,3 +61,5 @@ Fun Facts:
 * Data Engineers: [Junior Consultant](https://topmatch.talentry.com/share/job/157281/646166/1659096146/3), [Intern/Working Student](https://jobs.kpmg.de/default/job/Berlin-Werkstudent-%28wmd%29-IT-Strategie-IT-Architektur-10785/571916701/)
 * Low Code Developers: [Junior Consultant](https://topmatch.talentry.com/app/talent/s/i6hzqiu168wh4ojdvmb7ge/jobs/219789/details), [Intern/Working Student](mailto:recruiting@kpmg.com)
 * Business Intelligence & Data Analytics Experts: [Junior Consultant](https://topmatch.talentry.com/share/job/157282/646166/1659096176/3), [Intern/Working Student](https://jobs.kpmg.de/default/job/Berlin-Werkstudent-%28wmd%29-f%C3%BCr-Business-Intelligence-10785/571914101/)
+
+![MINT](https://i.imgur.com/Bo9jN9n.jpg)
