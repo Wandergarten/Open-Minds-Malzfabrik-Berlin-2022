@@ -41,7 +41,7 @@ Fun Facts:
 # What We Do @ Lighthouse Germany
 
 <a href="https://www.youtube.com/watch?v=jXx-cgqgFDc"><img align="left" src="https://i.imgur.com/rVrhO1x.png" alt="Lighthouse Germany in Motion"/></a>
-<br \>
+&nbsp;
 
 ### Data & Analytics
 * [Selbstvorstellung Data Science, Data & Analytics im Lighthouse Germany](https://home.kpmg/de/de/home/dienstleistungen/advisory/consulting/services/analytics-und-technology/data-science.html)
