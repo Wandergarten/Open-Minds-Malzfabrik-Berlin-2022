@@ -2,7 +2,7 @@
 Happy recrutaining to y'all!
 
 # Nerd Humor
-[![Silicon Valley (HBO-Series)](blob:https://imgur.com/67af0415-0a45-4b43-a9a3-4d44f6c32bea)](https://www.youtube.com/watch?v=w61d-NBqafM)
+<a href="https://www.youtube.com/watch?v=w61d-NBqafM"><img align="left" src="https://i.imgur.com/CAJkcWH.png" alt="Horse Manure Crisis Interview Jared PiedPiper CEO on Youtube"/></a>
 > "In the 1890s, the Industrial Revolution had people flocking to the city, and more people equals more horses, and more horses equals more manure. And it was predicted that by the middle of the next century, there would be nine feet of manure covering the streets. But what no one saw coming, was a new technology that would completely obliterate those concerns. The car. Over night, the manure problem vanished. And the Internet, as we currently know it, is rife with, uh, identity theft, and spam and hacking. So, it's manure, and we believe that, in success, our new, entirely de-centralized Internet, will be just as significant as the car." - Jared (temporary Pied Piper CEO)
 - scene taken from Silicon Valley Season 05 Episode 05 "Facial Recognition" 
 
