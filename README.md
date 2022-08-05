@@ -2,7 +2,7 @@
 Happy recrutaining to y'all!
 
 # Nerd Humor
-<a href="https://www.youtube.com/watch?v=w61d-NBqafM" target="_blank"><img align="left" src="https://i.imgur.com/CAJkcWH.png" alt="Horse Manure Crisis Interview Jared PiedPiper COO on Youtube" target="_blank"/></a>
+<a href="https://www.youtube.com/watch?v=w61d-NBqafM"><img align="left" src="https://i.imgur.com/CAJkcWH.png" alt="Horse Manure Crisis Interview Jared PiedPiper COO on Youtube"/></a>
 > "In the 1890s, the Industrial Revolution had people flocking to the city, and more people equals more horses, and more horses equals more manure. And it was predicted that by the middle of the next century, there would be nine feet of manure covering the streets. But what no one saw coming, was a new technology that would completely obliterate those concerns. The car. Over night, the manure problem vanished. And the Internet, as we currently know it, is rife with, uh, identity theft, and spam and hacking. So, it's manure, and we believe that, in success, our new, entirely de-centralized Internet, will be just as significant as the car." - Jared (temporary Pied Piper COO)
 - scene taken from Silicon Valley Season 05 Episode 05 "Facial Recognition" 
 
@@ -26,20 +26,19 @@ Fun Facts:
   * <a href="https://github.com/Wandergarten"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Github_black.svg" alt="LinkedIn" width="21px"/></a>
 
 
-## Mr. Automation
+## Mr. Automation-Is-Self-Empowerment
 * Raul
 * mature in age but not in mind
 * Academic background: Biology -> Stem Cells -> Business Intelligence --> Process Automation
 * Job Profile: Low Code Evangelist
 * Tech Stack: PowerBI, Low Code on various platforms, Native Instruments Traktor
 * Feel free to contact me via rbukowiecki@<big-four-large-letters>.com: 
-  * [![Linkedin] (https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://wwww.linkedin.com/in/raul-bukowiecki)
-  * [![PubFacts] (https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.pubfacts.com/author/Raul%2BBukowiecki)
-  
+  * <a href="https://wwww.linkedin.com/in/raul-bukowiecki"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/LinkedIN_black.svg" alt="LinkedIn" width="21px"/></a>
+  * <a href="https://www.pubfacts.com/author/Raul%2BBukowiecki"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Github_black.svg" alt="LinkedIn" width="21px"/></a>
   
 # What We Do @ Lighthouse Germany
 
-[![Lighthouse Germany in Motion](blob:https://imgur.com/069107ec-ca0e-476d-ac47-5441872c0d67)](https://www.youtube.com/watch?v=jXx-cgqgFDc)
+<a href="https://www.youtube.com/watch?v=jXx-cgqgFDc"><img align="left" src="https://i.imgur.com/rVrhO1x.png" alt="Lighthouse Germany in Motion"/></a>
 
 ## Data & Analytics
 * [Selbstvorstellung Data Science, Data & Analytics im Lighthouse Germany](https://home.kpmg/de/de/home/dienstleistungen/advisory/consulting/services/analytics-und-technology/data-science.html)
