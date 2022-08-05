@@ -36,7 +36,7 @@ Fun Facts:
 * Tech stack: PowerBI, Low Code on various platforms, Native Instruments Traktor
 * Feel free to contact me via rbukowiecki@\<big-four-large-letters\>.com: 
   * [linkedin.com](https://www.linkedin.com/in/raul-bukowiecki) <a href="https://wwww.linkedin.com/in/raul-bukowiecki"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/LinkedIN_black.svg" alt="LinkedIn" width="21px"/></a>
-  * [pubfacts.com]([https://www.github.com/wandergarten](https://www.pubfacts.com/author/Raul%2BBukowiecki)) <a href="https://www.pubfacts.com/author/Raul%2BBukowiecki"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Github_black.svg" alt="LinkedIn" width="21px"/></a>
+  * [pubfacts.com](https://www.pubfacts.com/author/Raul%2BBukowiecki) <a href="https://www.pubfacts.com/author/Raul%2BBukowiecki"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Github_black.svg" alt="LinkedIn" width="21px"/></a>
   
 # What We Do @ Lighthouse Germany
 
