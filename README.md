@@ -16,6 +16,8 @@ Fun Facts:
 # About Us
 
 ## Mr. Data-Are-My-Hobby
+![chris](https://github.com/Wandergarten/Open-Minds-Malzfabrik-Berlin-2022/blob/main/chris-1.png)
+
 * Chris
 * 27 yo
 * Academic background: Economics -> Business Informatics -> Data Science
