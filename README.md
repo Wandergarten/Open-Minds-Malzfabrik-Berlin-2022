@@ -1,4 +1,15 @@
-# Bonding @ TU Berlin 2022
+# Open Minds @ Malzfabrik Berlin 2022
+Happy recrutaining to y'all!
+
+# Nerd Humor
+<a href="https://www.youtube.com/watch?v=w61d-NBqafM"><img align="left" src="https://i.imgur.com/CAJkcWH.png" alt="Horse Manure Crisis Interview Jared PiedPiper COO on Youtube"/></a>
+> "In the 1890s, the Industrial Revolution had people flocking to the city, and more people equals more horses, and more horses equals more manure. And it was predicted that by the middle of the next century, there would be nine feet of manure covering the streets. But what no one saw coming, was a new technology that would completely obliterate those concerns. The car. Over night, the manure problem vanished. And the Internet, as we currently know it, is rife with, uh, identity theft, and spam and hacking. So, it's manure, and we believe that, in success, our new, entirely de-centralized Internet, will be just as significant as the car." - Jared (temporary Pied Piper COO)
+- scene taken from Silicon Valley Season 05 Episode 05 "Facial Recognition" 
+Fun Facts: 
+* [Brief Wikipedia article](https://en.wikipedia.org/wiki/Great_horse_manure_crisis_of_1894)
+* [About the series "Silicon Valley"](https://www.imdb.com/title/tt2575988/)
+* [Home Box Office - episode details](https://www.hbo.com/silicon-valley/season-5/5-facial-recognition)
+* [An amazingly written piece from Nautlius Mag](https://nautil.us/did-cars-rescue-our-cities-from-horses-13130/)
 
 # About Us
 
